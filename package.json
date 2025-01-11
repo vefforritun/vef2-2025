@@ -1,0 +1,30 @@
+{
+  "name": "vef2-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "present": "reveal-md ./ -w --disable-auto-open",
+    "eslint-js": "eslint ./**/*.js",
+    "eslint-markdown": "eslint --ext md .",
+    "eslint-html": "eslint --ext html .",
+    "eslint": "npm run eslint-js -s && npm run eslint-markdown -s && npm run eslint-html -s",
+    "markdownlint": "markdownlint ./**/*.md",
+    "test": "npm run eslint -s && npm run markdownlint -s"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^5.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-html": "^6.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-markdown": "^1.0.2",
+    "eslint-plugin-react": "^7.22.0",
+    "markdownlint-cli": "^0.31.1"
+  }
+}
