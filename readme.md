@@ -18,7 +18,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 10   | 17. mars    | Next.js; GraphQL; Annað efni                | Verkefni #5          | Verkefni #4                      |
 | 11   | 24. mars    | Buffer                                      |                      | Hópverkefni #2                   |
 | 12   | 31. mars    | Kynningar; umræðutími, frjálst efni         |                      | Verkefni #5                      |
-| 12   | 7. apríl    | Kynningar; umræðutími, frjálst efni         |                      | Einstaklingsverkefni             |
+| 13   | 7. apríl    | Kynningar; umræðutími, frjálst efni         |                      | Einstaklingsverkefni             |
 
 Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
 
@@ -54,25 +54,42 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 ### Minni verkefni
 
 - [Verkefni 1](https://github.com/vefforritun/vef2-2025-v1)
-  - Sett fyrir 15. janúar
-  - Skilist 5. febrúar
+  - Sett fyrir miðvikudaginn 15. janúar
+  - Skilist fimmtudaginn 6. febrúar
   - [Sýnilausn](https://github.com/vefforritun/vef2-2025-v1-synilausn), gerð aðgengileg eftir skil
+- [Verkefni 2](https://github.com/vefforritun/vef2-2025-v2)
+  - Sett fyrir miðvikudaginn 5. febrúar
+  - Skilist fimmtudaginn 20. febrúar
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2025-v2-synilausn), gerð aðgengileg eftir skil
+- [Verkefni 3](https://github.com/vefforritun/vef2-2025-v3)
+  - Sett fyrir miðvikudaginn 19. febrúar
+  - Skilist fimmtudaginn 6. mars
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2025-v3-synilausn), gerð aðgengileg eftir skil
+- [Verkefni 4](https://github.com/vefforritun/vef2-2025-v4)
+  - Sett fyrir miðvikudaginn 5. mars
+  - Skilist fimmtudaginn 20. mars
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2025-v4-synilausn), gerð aðgengileg eftir skil
+- [Verkefni 5](https://github.com/vefforritun/vef2-2025-v5)
+  - Sett fyrir miðvikudaginn 19. mars
+  - Skilist fimmtudaginn 3. apríl
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2025-v5-synilausn), gerð aðgengileg eftir skil
 
 ### Hópverkefni
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef2-2025-h1)
-  - Sett fyrir í lok janúar
-  - Skilist í lok febrúar
+  - Sett fyrir miðvikudaginn 29. janúar
+  - Skilist föstudaginn 28. febrúar
 - [Hópverkefni 2](https://github.com/vefforritun/vef2-2025-h2)
-  - Sett fyrir í lok febrúar
-  - Skilist í lok apríl
+  - Sett fyrir miðvikudaginn 26. febrúar
+  - Skilist föstudaginn 28. mars
 
 ### Einstaklingsverkefni
 
 - [Einstaklingsverkefni](https://github.com/vefforritun/vef2-2025-einstaklings)
-  - Sett fyrir í lok janúar
-  - Skilist í lok mars
-  - Kynningar í apríl
+  - Sett fyrir miðvikudaginn 22. janúar
+  - Fyrri skil miðvikudaginn 12. febrúar
+  - Skil á kynningum fyrir kynningar í vikum 12 og 13.
+  - Skilist miðvikudaginn 9. apríl.
 
 ## Lokaeinkunn
 
@@ -81,6 +98,6 @@ Ekkert lokapróf, lokaeinkunn er út frá verkefnaskilum:
 - 50% fyrir verkefni 1–5.
 - 40% fyrir hópverkefni 1 og 2.
 - Allt að 25% fyrir einstaklingsverkefni:
-  - 5% fyrir fyrri skil
+  - 5% fyrir fyrri skil (til upphækkunar)
   - 10% fyrir skilað verkefni
   - 10% fyrir kynningu á einstaklingsverkefni (valkvæmt og til upphækkunnar).
