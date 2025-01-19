@@ -1,0 +1,16 @@
+{
+  "name": "daemi",
+  "type": "module",
+  "version": "1.0.0",
+  "engines": {
+    "node": "22+"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "watch": "node --test --watch",
+    "coverage": "node --test --experimental-test-coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}

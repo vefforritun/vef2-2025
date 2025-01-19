@@ -1,0 +1,19 @@
+{
+  "name": "daemi",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS='--experimental-vm-modules' jest",
+    "watch": "NODE_OPTIONS='--experimental-vm-modules' jest --watch",
+    "coverage": "NODE_OPTIONS='--experimental-vm-modules' jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "@jest/globals": "^29.7.0"
+  }
+}

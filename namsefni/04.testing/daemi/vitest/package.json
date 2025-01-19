@@ -1,0 +1,19 @@
+{
+  "name": "vitest",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "watch": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^3.0.2",
+    "vitest": "^3.0.2"
+  }
+}

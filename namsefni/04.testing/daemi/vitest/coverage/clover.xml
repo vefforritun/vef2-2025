@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1737283504672" clover="3.2.0">
+  <project timestamp="1737283504672" name="All files">
+    <metrics statements="6" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1" elements="9" coveredelements="6" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="reverse.js" path="/Users/olafursverrirkjartansson/code/kennsla/vef2-2025/vef2-2025/namsefni/04.testing/daemi/vitest/src/reverse.js">
+      <metrics statements="6" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
