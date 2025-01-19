@@ -1,4 +1,4 @@
-# Vika 2, 15.–21. janúar 2024
+# Vika 2, 20.–26. janúar 2025
 
 ## Fyrirlestrar
 
