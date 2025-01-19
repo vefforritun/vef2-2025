@@ -2,9 +2,7 @@
 
 ## Fyrirlestrar
 
-- [Fyrirlestur 2.1: Yfirferð á námsefni vikunnar (16:05)](https://youtu.be/yq9WW58ucMQ)
-- [Fyrirlestur 2.2: Yfirferð á verkefni 1 (10:30)](https://youtu.be/zQR4QaDQGM4)
-- [Fyrirlestur 2.3: Yfirferð á sýnilausn á v1 2023, byrjun á v1 (1:10:34)](https://youtu.be/FkYxDExWSSU)
+Koma eftir fyrirlestur miðvikudaginn 22. janúar.
 
 ## Námsefni
 
