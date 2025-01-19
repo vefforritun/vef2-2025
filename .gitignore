@@ -18,3 +18,4 @@ temp
 **/package-lock.json
 
 .next/
+coverage
