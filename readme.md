@@ -8,7 +8,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | ---- | ----------- | ------------------------------------------- | -------------------- | -------------------------------- |
 | 1    | 13. janúar  | Kynning; form áfanga; upprifjun úr vef1     | Verkefni #1          |                                  |
 | 2    | 20. janúar  | Node.js & NPM; Testing                      | Einstaklingsverkefni |                                  |
-| 3    | 27. janúar  | TypeScript; HTTP; Express                   | Hópverkefni #1       |                                  |
+| 3    | 27. janúar  | HTTP; Express; TypeScript                   | Hópverkefni #1       |                                  |
 | 4    | 3. febrúar  | Vefþjónustur; Form                          | Verkefni #2          | Verkefni #1                      |
 | 5    | 10. febrúar | Cookies & sessions; notendaumsjón; postgres |                      | Einstaklingsverkefni, fyrri skil |
 | 6    | 17. febrúar | Hýsing; cache, redis; Öryggi                | Verkefni #3          | Verkefni #2                      |
@@ -48,6 +48,10 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 - [Vika 1, 13.–14. janúar 2025](vikur/vika-01.md)
   - Kynning; form áfanga; upprifjun úr vef1
+- [Vika 2, 20.–26. janúar 2025](vikur/vika-02.md)
+  - Node.js & NPM; Testing
+- [Vika 3, 27. janúar–2. febrúar 2025](vikur/vika-03.md)
+  - HTTP; Express; TypeScript
 
 ## Verkefni
 
