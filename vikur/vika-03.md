@@ -2,7 +2,7 @@
 
 ## Fyrirlestrar
 
-Koma eftir fyrirlestur miðvikudaginn 29. janúar.
+Fyrirlestur féll niður 29. janúar.
 
 ## Námsefni
 

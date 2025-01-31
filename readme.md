@@ -4,21 +4,21 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 
 ## Kennsluáætlun
 
-| Vika | Mánudagur   | Námsefni                                    | Verkefni sett fyrir  | Skil                             |
-| ---- | ----------- | ------------------------------------------- | -------------------- | -------------------------------- |
-| 1    | 13. janúar  | Kynning; form áfanga; upprifjun úr vef1     | Verkefni #1          |                                  |
-| 2    | 20. janúar  | Node.js & NPM; Testing                      | Einstaklingsverkefni |                                  |
-| 3    | 27. janúar  | HTTP; Express; TypeScript                   | Hópverkefni #1       |                                  |
-| 4    | 3. febrúar  | Vefþjónustur; Form                          | Verkefni #2          | Verkefni #1                      |
-| 5    | 10. febrúar | Cookies & sessions; notendaumsjón; postgres |                      | Einstaklingsverkefni, fyrri skil |
-| 6    | 17. febrúar | Hýsing; cache, redis; Öryggi                | Verkefni #3          | Verkefni #2                      |
-| 7    | 24. febrúar | Framenda framework; React                   | Hópverkefni #2       | Hópverkefni #1                   |
-| 8    | 3. mars     | React                                       | Verkefni #4          | Verkefni #3                      |
-| 9    | 10. mars    | React; Next.js                              |                      |                                  |
-| 10   | 17. mars    | Next.js; GraphQL; Annað efni                | Verkefni #5          | Verkefni #4                      |
-| 11   | 24. mars    | Buffer                                      |                      | Hópverkefni #2                   |
-| 12   | 31. mars    | Kynningar; umræðutími, frjálst efni         |                      | Verkefni #5                      |
-| 13   | 7. apríl    | Kynningar; umræðutími, frjálst efni         |                      | Einstaklingsverkefni             |
+| Vika | Mánudagur   | Námsefni                                | Verkefni sett fyrir  | Skil                        |
+|------|-------------|-----------------------------------------|----------------------|-----------------------------|
+| 1    | 13. janúar  | Kynning; form áfanga; upprifjun úr vef1 | Verkefni #1          |                             |
+| 2    | 20. janúar  | Node.js & NPM; Testing                  | Einstaklingsverkefni |                             |
+| 3    | 27. janúar  | HTTP; Express; TypeScript               | Hópverkefni #1       |                             |
+| 4    | 3. febrúar  | Form; cookies & sessions; postgres      | Verkefni #2          | Verkefni #1                 |
+| 5    | 10. febrúar | Notendaumsjón; vefþjónustur             |                      | Einstaklingsverkefni, fyrri |
+| 6    | 17. febrúar | Hýsing; cache, redis; Öryggi            | Verkefni #3          | Verkefni #2                 |
+| 7    | 24. febrúar | Framenda framework; React               | Hópverkefni #2       | Hópverkefni #1              |
+| 8    | 3. mars     | React                                   | Verkefni #4          | Verkefni #3                 |
+| 9    | 10. mars    | React; Next.js                          |                      |                             |
+| 10   | 17. mars    | Next.js; GraphQL; Annað efni            | Verkefni #5          | Verkefni #4                 |
+| 11   | 24. mars    | Buffer                                  |                      | Hópverkefni #2              |
+| 12   | 31. mars    | Kynningar; umræðutími, frjálst efni     |                      | Verkefni #5                 |
+| 13   | 7. apríl    | Kynningar; umræðutími, frjálst efni     |                      | Einstaklingsverkefni        |
 
 Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
 
@@ -52,6 +52,8 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - Node.js & NPM; Testing
 - [Vika 3, 27. janúar–2. febrúar 2025](vikur/vika-03.md)
   - HTTP; Express; TypeScript
+- [Vika 4, 3.–9. febrúar 2025](vikur/vika-04.md)
+  - Vefþjónustur; Form
 
 ## Verkefni
 
