@@ -4,6 +4,10 @@
 
 Koma eftir fyrirlestur miðvikudaginn 5. febrúar.
 
+- [Fyrirlestur 4.1: Enn meira um verkefni 1](https://youtu.be/ljYqmhFYZwc)
+- [Fyrirlestur 4.2: Verkefni 2 og Express](https://youtu.be/J_9X-TfqbLI)
+- [Fyrirlestur 4.3: postgres](https://youtu.be/a9AanBKCCYI)
+
 ## Námsefni
 
 - [Form](../namsefni/09.form)
