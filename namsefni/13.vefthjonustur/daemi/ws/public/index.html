@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>ws</title>
+</head>
+
+<body>
+  <pre></pre>
+  <form>
+    <input type="text">
+    <button>Senda</button>
+  </form>
+  <script>
+    const ws = new WebSocket('ws://localhost:3000');
+    const input = document.querySelector('input');
+    const pre = document.querySelector('pre');
+
+    document.querySelector('form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      ws.send(input.value);
+      pre.textContent = `${pre.textContent}\n${input.value}`;
+      input.value = '';
+    });
+
+    ws.addEventListener('open', () => {
+      ws.send('halló');
+    });
+
+    ws.addEventListener('message', (event) => {
+      pre.textContent = `${pre.textContent}\n${event.data}`;
+    });
+  </script>
+</body>
+
+</html>

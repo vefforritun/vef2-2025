@@ -1,0 +1,17 @@
+{
+  "name": "daemi",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic-auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "express": "^4.17.2"
+  }
+}

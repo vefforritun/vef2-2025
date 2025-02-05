@@ -10,8 +10,8 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 2    | 20. janúar  | Node.js & NPM; Testing                  | Einstaklingsverkefni |                             |
 | 3    | 27. janúar  | HTTP; Express; TypeScript               | Hópverkefni #1       |                             |
 | 4    | 3. febrúar  | Form; cookies & sessions; postgres      | Verkefni #2          | Verkefni #1                 |
-| 5    | 10. febrúar | Notendaumsjón; vefþjónustur             |                      | Einstaklingsverkefni, fyrri |
-| 6    | 17. febrúar | Hýsing; cache, redis; Öryggi            | Verkefni #3          | Verkefni #2                 |
+| 5    | 10. febrúar | Notendaumsjón; vefþjónustur; hýsing     |                      | Einstaklingsverkefni, fyrri |
+| 6    | 17. febrúar | Cache, redis; Öryggi                    | Verkefni #3          | Verkefni #2                 |
 | 7    | 24. febrúar | Framenda framework; React               | Hópverkefni #2       | Hópverkefni #1              |
 | 8    | 3. mars     | React                                   | Verkefni #4          | Verkefni #3                 |
 | 9    | 10. mars    | React; Next.js                          |                      |                             |
@@ -53,7 +53,9 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 - [Vika 3, 27. janúar–2. febrúar 2025](vikur/vika-03.md)
   - HTTP; Express; TypeScript
 - [Vika 4, 3.–9. febrúar 2025](vikur/vika-04.md)
-  - Vefþjónustur; Form
+  - Form; cookies & sessions; postgres
+- [Vika 5, 10.–16. febrúar 2025](vikur/vika-05.md)
+  - Notendaumsjón; vefþjónustur; hýsing
 
 ## Verkefni
 
