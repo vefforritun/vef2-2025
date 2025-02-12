@@ -56,6 +56,8 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - Form; cookies & sessions; postgres
 - [Vika 5, 10.–16. febrúar 2025](vikur/vika-05.md)
   - Notendaumsjón; vefþjónustur; hýsing
+- [Vika 6, 17.–23. febrúar 2025](vikur/vika-06.md)
+  - Cache, redis; Öryggi
 
 ## Verkefni
 
@@ -95,7 +97,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 - [Einstaklingsverkefni](https://github.com/vefforritun/vef2-2025-einstaklings)
   - Sett fyrir miðvikudaginn 22. janúar
-  - Fyrri skil miðvikudaginn 12. febrúar
+  - Fyrri skil föstudaginn 14. febrúar
   - Skil á kynningum fyrir kynningar í vikum 12 og 13.
   - Skilist miðvikudaginn 9. apríl.
 
