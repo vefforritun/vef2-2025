@@ -1,4 +1,4 @@
-# Heroku
+# Hýsing
 
 * [Heroku](heroku.md), [vídeó (48:43)](https://www.youtube.com/watch?v=UxnSG2VcjZA) frá vef2-2021
 
