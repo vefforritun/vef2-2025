@@ -1,0 +1,14 @@
+.menu {
+  display: flex;
+
+  margin-bottom: 2rem;
+
+  &__group {
+    margin-right: 2rem;
+  }
+
+  &__list {
+    padding: 0;
+    list-style: none;
+  }
+}

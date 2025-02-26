@@ -2,7 +2,7 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 19. febrúar.
+Gestafyrirlestur um öryggi sem ekki var tekinn upp.
 
 ## Námsefni
 
@@ -11,7 +11,7 @@ Koma inn eftir fyrirlestur 19. febrúar.
 
 ### Aukaefni
 
-Sum dæmi nota [`node-fetch`](https://github.com/node-fetch/node-fetch) en frá og með útgáfu 16 af node.js er hægt að nota `fetch` beint í node.js. Upp að útgáfu 21 er API merkt sem _experimental_ en er í dag orðin _stable_ í útgáfu 21.
+Sum dæmi nota [`node-fetch`](https://github.com/node-fetch/node-fetch) en frá og með útgáfu 16 af node.js er hægt að nota `fetch` beint í node.js. Upp að útgáfu 21 er API merkt sem _experimental_ en er í dag orðin _stable_ í útgáfu 22.
 
 ## Verkefni
 

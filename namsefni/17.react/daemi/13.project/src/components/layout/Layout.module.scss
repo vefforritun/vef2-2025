@@ -1,0 +1,12 @@
+.layout {
+  font-family: Arial, Helvetica, sans-serif;
+
+  &__header {
+    padding: 0 1rem;
+  }
+
+  &__main {
+    margin-bottom: 1rem;
+    padding: 0 1rem;
+  }
+}
