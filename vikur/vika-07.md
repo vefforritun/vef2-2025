@@ -6,6 +6,8 @@
 - [Fyrirlestur 7.2: Vefþjónustur og verkefni 3 (54:39)](https://youtu.be/Fmg7wgQpcFE)
 - [Fyrirlestur 7.3: Meira um verkefni 3 og Prisma (46:38)](https://youtu.be/A3idOsqO1io)
 
+[Repo með því sem unnið var í tíma](https://github.com/vefforritun/vef2-2025-v3-unnid-i-tima).
+
 ## Námsefni
 
 - [React](../namsefni/17.react/)
