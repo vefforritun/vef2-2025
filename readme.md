@@ -92,7 +92,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef2-2025-h1)
   - Sett fyrir miðvikudaginn 29. janúar
-  - Skilist föstudaginn 28. febrúar
+  - Skilist föstudaginn ~28. febrúar~ 7. mars
 - [Hópverkefni 2](https://github.com/vefforritun/vef2-2025-h2)
   - Sett fyrir miðvikudaginn 26. febrúar
   - Skilist föstudaginn 28. mars
