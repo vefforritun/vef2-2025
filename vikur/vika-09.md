@@ -1,15 +1,16 @@
-# Vika 9, 4.–10. mars 2024
+# Vika 9, 10.–16. mars 2025
 
 ## Fyrirlestrar
 
-Engin fyrirlestur 6. mars.
+Kemur eftir fyrirlestur 12. mars.
 
 ## Námsefni
 
 - [React](../namsefni/17.react/)
 
+Höldum áfram með React í vikum 10 og 11.
+
 ## Verkefni
 
-- [ ] Skila [verkefni 3](https://github.com/vefforritun/vef2-2024-v3)
-- [ ] Byrja á [verkefni 4](https://github.com/vefforritun/vef2-2024-v4)
-- [ ] Vinna í [hópverkefni 1](https://github.com/vefforritun/vef2-2024-h1)
+- [ ] Vinna í [verkefni 4](https://github.com/vefforritun/vef2-2024-v4)
+- [ ] Vinna í og skila [hópverkefni 1](https://github.com/vefforritun/vef2-2025-h1)
