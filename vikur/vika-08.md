@@ -5,6 +5,8 @@
 - [Fyrirlestur 8.1: Uppsetning á verkefni 3 á render og neon (32:19)](https://youtu.be/jkTW-7Wt-LY)
 - [Fyrirlestur 8.2: Verkefni 4, uppsetning á Next.js og byrjun (1:17:14)](https://youtu.be/XHZjpWeSIO4)
 
+[Repo með því sem unnið var í tíma](https://github.com/vefforritun/vef2-2025-v4-unnid-i-tima).
+
 ## Námsefni
 
 - [React](../namsefni/17.react/)
