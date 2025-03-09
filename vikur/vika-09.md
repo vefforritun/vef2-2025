@@ -7,8 +7,9 @@ Kemur eftir fyrirlestur 12. mars.
 ## Námsefni
 
 - [React](../namsefni/17.react/)
+- [Next.js](../namsefni/18.next.js/)
 
-Höldum áfram með React í vikum 10 og 11.
+Höldum áfram með React og Next.js í vikum 10 og 11.
 
 ## Verkefni
 

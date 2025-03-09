@@ -62,6 +62,8 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - Framenda framework; React
 - [Vika 8, 3.–9. mars 2025](vikur/vika-08.md)
   - React
+- [Vika 9, 10.–16. mars 2025](vikur/vika-09.md)
+  - React; Next.js
 
 ## Verkefni
 
