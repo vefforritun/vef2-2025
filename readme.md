@@ -15,9 +15,9 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 7    | 24. febrúar | Framenda framework; React               |                             |                             |
 | 8    | 3. mars     | React                                   | Verkefni #4; Hópverkefni #2 | Verkefni #3; Hópverkefni #1 |
 | 9    | 10. mars    | React; Next.js                          |                             |                             |
-| 10   | 17. mars    | Next.js; GraphQL; Annað efni            | Verkefni #5                 | Verkefni #4                 |
-| 11   | 24. mars    | Buffer                                  |                             |                             |
-| 12   | 31. mars    | Kynningar; umræðutími, frjálst efni     |                             | Verkefni #5; Hópverkefni #2 |
+| 10   | 17. mars    | Next.js; GraphQL                        | Verkefni #5                 | Verkefni #4                 |
+| 11   | 24. mars    | Next.js; GraphQL                        |                             |                             |
+| 12   | 31. mars    | Kynningar                               |                             | Verkefni #5; Hópverkefni #2 |
 | 13   | 7. apríl    | Kynningar; umræðutími, frjálst efni     |                             | Einstaklingsverkefni        |
 
 Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
@@ -64,6 +64,14 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - React
 - [Vika 9, 10.–16. mars 2025](vikur/vika-09.md)
   - React; Next.js
+- [Vika 10, 17.–23. mars 2025](vikur/vika-10.md)
+  - Next.js; GraphQL
+- [Vika 11, 24.–30. mars 2025](vikur/vika-11.md)
+  - Next.js; GraphQL
+- [Vika 12, 31. mars–6. apríl 2025](vikur/vika-12.md)
+  - Kynningar
+- [Vika 13, 7.–13. apríl 2025](vikur/vika-13.md)
+  - Kynningar; umræðutími, frjálst efni
 
 ## Verkefni
 
