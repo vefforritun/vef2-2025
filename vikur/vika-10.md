@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 19. mars.
+- [Fyrirlestur 10.1: Tenging vefþjónustu við Next.js fyrir v4 (41:51)](https://youtu.be/IvsOJWmz5GQ)
+- [Fyrirlestur 10.2: Uppsetning á v4 á Vercel og tenging við Render (40:04)](https://youtu.be/m_nw5i4_IAU)
+- [Fyrirlestur 10.3: Aðeins meira um Vercel (9:43)](https://youtu.be/P0TDZ15Fs88)
+- [Verkefni 5 (15:06)](https://youtu.be/ofnGlMn8yUM)
 
 ## Námsefni
 

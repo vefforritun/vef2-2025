@@ -2,7 +2,7 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 19. mars.
+Koma inn eftir fyrirlestur 26. mars.
 
 ## Námsefni
 
