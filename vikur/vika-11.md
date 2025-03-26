@@ -2,7 +2,8 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 26. mars.
+- [Fyrirlestur 11.1: Meira um v5 (30:01)](https://www.youtube.com/watch?v=iOrgfqls2sE)
+- [Fyrirlestur 11.2: Enn meira um v5 og lok námskeiðs (50:47)](https://youtu.be/m7BI29LyI7w)
 
 ## Námsefni
 
